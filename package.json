@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "raspicam" : "0.2.12",
+    "moment" : "2.8.4",
+    "aws-sdk" : "2.1.4"
+  }
+}
