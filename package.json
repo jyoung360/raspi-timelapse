@@ -5,6 +5,10 @@
   "dependencies": {
     "raspicam" : "0.2.12",
     "moment" : "2.8.4",
-    "aws-sdk" : "2.1.4"
+    "aws-sdk" : "2.1.4",
+    "moment" : "2.9.0"
+  },
+  "scripts": {
+    "test": "AWS_ACCESS_KEY_ID=AKIAIO2CKFZISGJNSQ5A AWS_SECRET_ACCESS_KEY=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 node daily.js"
   }
 }
